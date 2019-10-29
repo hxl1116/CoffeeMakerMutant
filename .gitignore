@@ -44,9 +44,10 @@ cmake-build-*/
 *.iws
 
 # IntelliJ
+CoffeeMakerMutant.iml
 .idea/
 out/
-CoffeeMakerMutant.iml
+target/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
