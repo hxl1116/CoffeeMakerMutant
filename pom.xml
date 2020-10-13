@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit-platform-commons.version>1.5.2</junit-platform-commons.version>
         <junit-jupiter.version>5.5.2</junit-jupiter.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
